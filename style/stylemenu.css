@@ -1,6 +1,6 @@
-.background {
-    background-color: aquamarine;
-    color: brown;
+.back {
+    background-color: rgb(59, 66, 64);
+    color: grey;
 }
 
 .menu-text {
@@ -12,3 +12,4 @@
     color: rgb(170, 3, 3);
 
 }
+
