@@ -1,10 +1,5 @@
-.back {
-    background-color: rgb(59, 66, 64);
-    color: grey;
-}
-
 .menu-text {
-    text-align: center;
+    text-align: middle;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -12,4 +7,3 @@
     color: rgb(170, 3, 3);
 
 }
-
