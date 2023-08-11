@@ -7,3 +7,14 @@
     color: rgb(170, 3, 3);
 
 }
+
+.phenomena {
+    background-color: blue;
+    color: darkblue;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}

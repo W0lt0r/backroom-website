@@ -1,0 +1,20 @@
+.image-container{
+    position: relative;
+    width: 1900px;
+    height: 925px;
+}
+
+.h1 {
+    color: aqua;
+    text-align: center;
+}
+
+.h2 {
+    color: bisque;
+    text-align: center;
+}
+
+.text {
+    color: blueviolet;
+    text-align: center;
+}
