@@ -8,13 +8,6 @@
 
 }
 
-.phenomena {
-    background-color: blue;
-    color: darkblue;
-    padding: 10px 20px;
-    text-align: center;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 5px;
-    cursor: pointer;
+.img {
+    border: 1px solid black;
 }
