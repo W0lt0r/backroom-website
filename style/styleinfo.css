@@ -2,6 +2,8 @@ h2 {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: blueviolet;
+    margin-top: -30px;
+    margin-bottom: 10px;
 }
 
 body {
@@ -28,22 +30,40 @@ body {
 img {
     float: right;
     margin-right: 1000px;
-    margin-top: 45px;
+    margin-top: 20px;
     width: 340px;
     height: 170px;
 }   
 
-.img-right {
-    margin-right: left;
-    margin-left: 2500px;
+.imgright {
+    position:absolute;
     margin-top: 20px;
-    width: 340px;
-    height: 170px;
+    margin-left: 1800px;
 }
 
 h1 {
     color: brown;
     margin-left: 800px; 
-    font-size: 50px;
-    padding-bottom: 10px;
+    font-size: 70px;
+    margin-bottom: -20px;
+    font-family: 'By the way', sans-serif;
+
+}
+
+.titleright {
+    position:absolute;
+    margin-top: 350px;
+    margin-left: 1800px;
+    transform: rotate(90deg);
+    font-size: 200px;
+    font-family: 'By the way', sans-serif;
+    color: 
+ #cc0000;                               
+}
+
+h3 {
+    color: purple;
+    font-size: 30px;
+    padding-bottom: -20px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
 }
