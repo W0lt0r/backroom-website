@@ -4,12 +4,46 @@ h2 {
     color: blueviolet;
 }
 
-.sec1 {
-    background-image: url('../pic/info2.png');
+body {
+    background-image: url('../pic/info3.png');
     background-repeat: no-repeat;
-    background-size: 115%;
+    background-size: 130%;
 }
 
-table {
-    margin-top: 90px;
+.lefttable {
+    margin-top: 70px;
+}
+
+.righttable {
+    position:absolute;
+    margin-top: 0px;
+    margin-left: 450px;
+}
+
+.title {
+    position:absolute;
+    margin-top: 0px;
+}
+
+img {
+    float: right;
+    margin-right: 1000px;
+    margin-top: 45px;
+    width: 340px;
+    height: 170px;
+}   
+
+.img-right {
+    margin-right: left;
+    margin-left: 2500px;
+    margin-top: 20px;
+    width: 340px;
+    height: 170px;
+}
+
+h1 {
+    color: brown;
+    margin-left: 800px; 
+    font-size: 50px;
+    padding-bottom: 10px;
 }
